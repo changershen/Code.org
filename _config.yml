@@ -1,0 +1,18 @@
+# Site settings
+title: 成长博客
+description: >
+    同步美国的课程, 面向 3 岁或以上的小朋友(或大朋友), 通过熟悉的卡通人物和
+    特定的场景, 在游戏中不知不觉的煅炼算法逻辑.
+author: You
+email: info@io.org.cn
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+# twitter_username: hybrid_alex
+# github_username:  alexcarpenter
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
