@@ -1,25 +1,34 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "来, 陪你家的小朋友玩3年代码游戏"
 date:   2017-05-31 22:07:56 +0800
-categories: jekyll update
+categories: 亲子
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## 写在前面
+大约 2014 年冬天, 苹果店为小朋友们举办了一次代码工作坊, 当时是使用**代码一小时**的课程, 随后我在朋友圈分享了这一则消息, 有不少的朋友过来问怎么玩. 时间过了快三年, 期间我家小朋友一直在玩 code.org 的代码游戏([见我之前的文章<小学生要不要学习编程>](https://blog.never.tw/yanyee-good-code/)), 由于连到海外的网络越来越差, 特别是晚上, 每次玩完一个要等一分钟才有下一个. 为了我家小朋友玩得爽, 于是我自己把 studio.code.org 架在我的笔记本上.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+然后, 我的笔记本动不动又几个月没关机了. 因为现在除了我自己用之外, 我周围的同事及朋友家的小朋友也在玩.
 
-Jekyll also offers powerful support for code snippets:
+## 亲自试一试
+* 连到[我的笔记本](https://io.org.cn/s/frozen/stage/1/puzzle/2)
+* 连到[海外的 code.org](https://studio.code.org/s/frozen/stage/1/puzzle/2)
 
-{% highlight ruby linenos %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+你可以对比一下, 我家里的 ADSL 比连到 AWS 海外的服务器那个更快.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## 这是什么
+这些代码游戏看重的是解决问题的思路, 运用已有的模块, 即算法逻辑来解决问题. 模块是伪代码的一种, 由 google 开发并用于他们公司内部, 目前哈佛及伯克利的计算机科学也采用这种教学方式. 国内目前也有很多类似的网站, 但从我自己跟我家小朋友经验来看 code.org 是最优的, 许多代码游戏的人物是来自于熟悉的动画片和知名的游戏, 小朋友会很有兴趣.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## 我为什么做
+微软创始人比尔.盖茨说: "我衡量我自己快乐与否, 是通过判断那些在我身边爱我的人是否快乐, 以及我是不是给他人的生活带去了改变."
+
+另外一个更重要的原因是**计算机科学**在未来会越来越重要, 可以看看米国前总统是怎么说的 [中文字幕版](http://shanghai.zammad.com.cn/codeorg/Obama.mp4) [英文原版](http://shanghai.zammad.com.cn/codeorg/Obama_en.mp4)
+
+
+## 怎么玩
+* 适用人群: 如果父母时间多的话, 可以从3岁起, 一般建议有阅读能力(小学生)最好.
+* 时间: 未来3年内, 双周, 即每月2次网上交流
+* 费用: 按20人计算分摊 1980 元, 每人100元, 三年, 租一台 2CPU, 4G 内存的服务器, 于华东区, 将我的笔记本上的代码搬到上面去(看情况可能会扩展到10兆带宽, 费用我自己负担)
+* 如何参与: 已达到人数
+* 设备: 平板最好, 大屏幕手机也不错, 笔记本也不排除.
+
+**或许，李世乭是最后一个赢过 AlphaGo 的人了！**
