@@ -6,4 +6,4 @@ categories: Children's Day
 ---
 小朋友的创意无限, [你也来试试](https://io.org.cn/s/course2/stage/19/puzzle/1).
 
-<video src="/media/happy-children-day.mp4" type="video/mpeg" controls="controls"></video>
+![](/media/happy-children-day.gif)
