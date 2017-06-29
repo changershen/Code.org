@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "登录到 io.org.cn 网站"
+date:   2017-06-29 20:00:00 +0800
+categories: "使用说明"
+---
+
+## 使用浏览器输入网站地址 io.org.cn
+建议使用 Chrome / Firefox / Safari 最新版本, 以获得更快的速度.
+
+![输入地址 io.org.cn ](/media/login_input_address.png)
+
+----
+
+## 输入之前提供的用户名和密码
+在 **User Name** 输入用户名, 在 **Password** 输入密码, 如果需要更改用户名或密码, 请联系我 QQ 或 微信: 59808
+
+![输入密码](/media/login_input_password.png)
+
+为避免重复入密码, 请使用浏览器提供的 **记住密功能**
+
+![记住密码](/media/login_remember_your_password.png)
+
+----
+
+- *注意, 不同的浏览器可能提示稍有不同.*
+- *有时可能会需要输入两次密码, 原因是 io.orrg.cn 是把两个网站合并成一个.*
+- *如果小朋友英文名的, 可使用英文名, 而密码建议使用英文单词(正好记多一个单词).*
